@@ -1,0 +1,30 @@
+2026-02-20 10:12:03.382306 | You: what is math
+2026-02-20 10:12:03.382306 | Bot: I'm not sure how to respond to that yet.
+
+2026-02-20 10:12:31.391303 | You: what is time right now
+2026-02-20 10:12:31.391303 | Bot: The current time is 10:12:31
+
+2026-02-20 10:12:53.015129 | You: what is english
+2026-02-20 10:12:53.015129 | Bot: I'm not sure how to respond to that yet.
+
+2026-02-20 10:13:06.337904 | You: what is adte today 
+2026-02-20 10:13:06.337904 | Bot: I'm not sure how to respond to that yet.
+
+2026-02-20 10:13:12.722057 | You: what is date today
+2026-02-20 10:13:12.722057 | Bot: I'm not sure how to respond to that yet.
+
+2026-02-20 10:14:58.385569 | You: what is day today
+2026-02-20 10:14:58.385569 | Bot: Today is Friday
+
+2026-02-20 10:15:06.939973 | You: what is weather today
+2026-02-20 10:15:06.939973 | Bot: Today is Friday
+
+2026-02-20 10:15:15.599157 | You: what is date today
+2026-02-20 10:15:15.599157 | Bot: Today's date is 20-02-2026
+
+2026-02-20 10:15:24.399956 | You: what is time now
+2026-02-20 10:15:24.399956 | Bot: The current time is 10:15:24
+
+2026-02-20 10:16:09.763875 | You: ok in year 2026 which month will have 28 days
+2026-02-20 10:16:09.763875 | Bot: Today is Friday
+

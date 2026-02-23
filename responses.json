@@ -1,0 +1,22 @@
+{
+  "greetings": {
+    "keywords": ["hello", "hi", "hey"],
+    "response": "Hello! I'm your offline chatbot. How can I assist you today?"
+  },
+  "about_ai": {
+    "keywords": ["ai", "artificial intelligence"],
+    "response": "Artificial Intelligence enables machines to simulate human intelligence."
+  },
+  "python": {
+    "keywords": ["python"],
+    "response": "Python is widely used for AI, data science, and backend development."
+  },
+  "time": {
+    "keywords": ["time"],
+    "response": "Let me check the current time for you."
+  },
+  "bye": {
+    "keywords": ["bye", "exit", "quit"],
+    "response": "Goodbye! It was nice talking to you."
+  }
+}
